@@ -1,0 +1,9 @@
+名前,PosX,PosY,テキスト
+TotalScore,200,130,合計スコア
+KillScore,200,250,撃破ボーナス
+ItemScore,200,350,アイテムボーナス
+TimeScore,200,450,時間ボーナス
+HPScore,200,550,体力ボーナス
+HighScore1,500,200,1st
+HighScore2,500,400,2nd
+HighScore3,500,600,3rd
